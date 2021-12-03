@@ -1,0 +1,22 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwdec211/Time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwdec211/Time/issues"
+  },
+  "homepage": "https://github.com/mwdec211/Time#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
